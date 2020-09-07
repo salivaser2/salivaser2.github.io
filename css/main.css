@@ -1,7 +1,3 @@
-body {
-  background: url("/images/background.jpg");
-  background-attachment: fixed;
-}
 :root {
   --body-bg-color: #fff;
   --content-bg-color: #fff;
@@ -1270,7 +1266,7 @@ pre .javascript .function {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #7060e8;
+  background: #40ff0b;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
